@@ -1,0 +1,15 @@
+img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+
+.navbar-brand{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+nav li a {
+    font-size: 18px;
+    font-weight: 500;   
+}
